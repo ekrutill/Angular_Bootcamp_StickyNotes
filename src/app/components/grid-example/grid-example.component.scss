@@ -1,0 +1,28 @@
+.container {
+  background-color: rgb(147, 139, 147);
+}
+
+.number-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.number {
+  font-weight: 700;
+  font-size: 100px;
+  color: white;
+}
+
+.box {
+  max-width:300px;
+  min-width: 300px;
+  min-height: 300px;
+
+}
+
+mat-grid-tile {
+  background-image: url("../../../assets/unicorn.png");
+  background-size: cover;
+}

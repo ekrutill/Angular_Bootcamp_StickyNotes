@@ -1,0 +1,40 @@
+
+div.content {
+  height: 100%;
+  max-height: 100%;
+}
+
+.inner-content {
+  margin: 0 auto;
+  display: flex;
+}
+
+.box-1 {
+  background-color: rgb(193, 161, 185);
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  display: flex;
+  align-items: center;
+}
+
+.box-2 {
+  background-color: rgb(180, 140, 170);
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  display: flex;
+  align-items: center;
+}
+
+.box-3 {
+  background-color: rgb(159, 121, 149);
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  display: flex;
+  align-items: center;
+}
